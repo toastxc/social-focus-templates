@@ -9,7 +9,7 @@
 ## Step Two: Choose a config
 - [Remove recommended engines](https://raw.githubusercontent.com/toastxc/social-focus-templates/refs/heads/main/configs/remove-recommended-engine.txt)
 
-## Step Two Install it
+## Step Three: Install it
 3. Control A + Control C
 4. Open Socialfocus -> Hamburger Menu -> Import / Export -> Paste Exported Settings -> Import
 
